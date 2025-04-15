@@ -6,7 +6,7 @@ This is a simple blog system built using React.js. It integrates with a dummy AP
 
 Features
 
-✅ Display a list of blogs fetched from an API✅ View detailed blog posts✅ Like a blog post✅ Add comments to blog posts✅ Persist likes and comments using local storage✅ Responsive UI using CSS
+ Display a list of blogs fetched from an API View detailed blog posts  Like a blog post  Add comments to blog posts Persist likes and comments using local storage Responsive UI using CSS
 
 Technology Stack
 
